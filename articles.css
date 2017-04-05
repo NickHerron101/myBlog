@@ -1,0 +1,55 @@
+#one {
+	background-color: coral;
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+	font-size: 1.1em;
+	font-color: grey;
+	line-height: -.2em;
+	padding: 2px;
+	border: 2px solid red;
+	border-radius: 30px;
+}
+	
+
+#two {
+	background-color: coral;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 1.3em;
+	font-color: forestgreen;
+	line-height: -.4em;
+	padding: 2px;
+	border: 5px dotted black;
+	border-radius: 60px;
+}
+
+#three {
+	background-color: red;
+	font-family: "Lucida Console", Courier, monospace;
+	font-size: 1.5em;
+	font-color: darkblue;
+	line-height: -.6em;
+	padding: 8px;
+	border: 4px dashed grey;
+	border-radius: 90px;
+}
+
+#four {
+	background-color: green;
+	font-family: fantasy;
+	font-size: 1.8em;
+	font-color: darkgray;
+	line-height: -.8em;
+	padding: 10px;
+	border: 3px groove blue;
+	border-radius: 120px;
+}
+
+#five {
+	background-color: orange;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2.0em;
+	font-color: darkgreen;
+	line-height: 1.2em;
+	padding: .5px;
+	border: 8px ridge green;
+	border-radius: 150px;
+}
