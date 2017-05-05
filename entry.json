@@ -31,7 +31,6 @@
 		"cardInfo": "At Radnor lake I saw all the Larkspur flowers blooming and thought about all the people in the cohort entering a new phase of learning and how all of us were beautiful in our own right, and how we all were so unique.",
 		"publishDate": "2017-04-14",
 		"writtenDate": "April 14, 2017"
-
 		},
 
 		{
@@ -46,7 +45,3 @@
 	]
 }
 
-reate a JSON file for your blog entries.
-Read from local JSON file with an XHR.
-Loop over results and inject into Blog List View.
-Add delete button to each blog entry and, when it is clicked, delete the entire entry in the DOM.
