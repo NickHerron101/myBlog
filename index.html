@@ -18,13 +18,13 @@
 					<h1 id="top">My Blog</h1>
 					<nav>
 						<ul>
-							<li><a href="index.html">Blog List</a></li>
+							<li id="blogList"><a href="#">Blog List</a></li>
 							<li id="addBlogEntry"><a href="#">Add Blog Entry</a></li>
 						</ul>
 					</nav>
 				</header>
 
-				<div id="hide" class="hidden">
+				<div id="formFill" class="hidden">
 
 				Title: <input type="text" name="text" id="title"><br>
 				Entry: <input type="text" name="text" id="entry"><br>
@@ -34,9 +34,12 @@
 				Caption: <input type="text" name="text" id="caption"><br>
 				Semantic Publish Date: <input type="text" name="text" id="pubDate"><br>
 				Written on: <input type="text" name="text" id="writtenOn"><br>
+				<button id="addButton">Add Blog</button>
 
 				</div>
-				<article id="main">
+
+				<div id="main"></div>
+
 			<!-- <h2>Week One</h2>
 			<section>
 
@@ -111,8 +114,7 @@
 			<footer>By N.C. Herron <time datetime=2017-04-06>April 6, 2017</time></footer>
 		</article> -->
 		<!-- <article id="main"> -->
- -->
-		</article>
+
 		<a href="#top">Back to Top<a>
 
 		<script type="text/javascript" src="main.js"></script>
