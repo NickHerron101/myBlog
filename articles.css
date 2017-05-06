@@ -15,78 +15,12 @@ div.card-panel.hoverable {
 	background-color: #e3f2fd ;
 }
 
-/*img {
-	display: inline-block;
-}*/
-/*article {
-	margin: 10px 10px;
+.hidden {
+	display: none;
+	visibility: hidden;
 }
 
-section.entry {
-	font-family: 'Oswald', sans-serif;
-	margin: auto;
+.visible {
+	display: block;
+	visibility: visible;
 }
-
-section.thingsLearned {
-	font-family: 'Oswald', sans-serif;
-	margin: auto;
-}*/
-
-
-
-/*#one {
-	background-color: lightblue;
-	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
-	font-size: 1.1em;
-	color: blue;
-	line-height: -.2em;
-	padding: 30px;
-	border: 2px solid black;
-	border-radius: 10px;
-}
-
-
-#two {
-	background-color: DarkSeaGreen;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 1.2em;
-	color: black;
-	line-height: -.3em;
-	padding: 35px;
-	border: 2px solid black;
-	border-radius: 5px;
-}
-
-#three {
-	background-color: paleturquoise;
-	font-family: "Lucida Console", Courier, monospace;
-	font-size: 1.3em;
-	color: darkblue;
-	line-height: -.1em;
-	padding: 40px;
-	border: 2px solid black;
-	border-radius: 30px;
-}
-
-#four {
-	background-color: darkgray;
-	font-family: fantasy;
-	font-size: 1.4em;
-	color: black;
-	line-height: 1.1em;
-	padding: 45px;
-	border: 2px solid black;
-	border-radius: 40px;
-}
-
-#five {
-	background-color: dimgray;
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 1.5em;
-	color: black;
-	line-height: 1.2em;
-	padding: 50px;
-	border: 2px solid black;
-	border-radius: 17px;
-
-}*/
